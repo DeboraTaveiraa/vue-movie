@@ -5,7 +5,7 @@ Website created for Vue.js studies in version 3.
 API used: http://www.omdbapi.com <br>
 Vue 3: https://v3.vuejs.org/
 
-Demo: 
+Demo: <br>
 ![Demo website](demo-vue-movie.gif)
 
 <hr>
