@@ -3,7 +3,7 @@
 Website created for Vue.js studies in version 3.
 
 API used: http://www.omdbapi.com <br>
-Vue 3: https://v3.vuejs.org/
+Vue 3: https://v3.vuejs.org/ <br>
 Where did I study: https://youtu.be/UHewcsv6uJY
 
 Demo: <br>
